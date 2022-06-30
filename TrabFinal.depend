@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1654997475 source:c:\users\caio\desktop\trabfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"trabFinal.h"
+
+1654995552 c:\users\caio\desktop\trabfinal\trabfinal.h
+
+1654997426 source:c:\users\caio\desktop\trabfinal\trabfinal.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"trabFinal.h"
+
+1655517483 source:\\desktop-qp41vbu\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+	"trabFinal.h"
+	"arvoreAVL.h"
+	"arvoreLLRB.h"
+
+1655516918 \\desktop-qp41vbu\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\trabfinal.h
+
+1655516785 source:\\desktop-qp41vbu\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\trabfinal.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"trabFinal.h"
+
+1655515680 source:\\desktop-qp41vbu\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+	"arvoreAVL.h"
+
+1655511643 \\desktop-qp41vbu\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\arvoreavl.h
+
+1655515681 source:\\desktop-qp41vbu\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\arvorellrb.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+	"arvoreLLRB.h"
+
+1655511709 \\desktop-qp41vbu\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\arvorellrb.h
+
+1655515680 source:c:\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+	"arvoreAVL.h"
+
+1655511643 c:\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\arvoreavl.h
+
+1655515681 source:c:\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\arvorellrb.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+	"arvoreLLRB.h"
+
+1655511709 c:\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\arvorellrb.h
+
+1655517483 source:c:\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+	"trabFinal.h"
+	"arvoreAVL.h"
+	"arvoreLLRB.h"
+
+1655516918 c:\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\trabfinal.h
+
+1655516785 source:c:\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\trabfinal.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"trabFinal.h"
+
+1655515680 source:z:\ifsp\3 semestre\estrutura de dados\trabfinal\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+	"arvoreAVL.h"
+
+1655511643 z:\ifsp\3 semestre\estrutura de dados\trabfinal\arvoreavl.h
+
+1655515681 source:z:\ifsp\3 semestre\estrutura de dados\trabfinal\arvorellrb.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+	"arvoreLLRB.h"
+
+1655511709 z:\ifsp\3 semestre\estrutura de dados\trabfinal\arvorellrb.h
+
+1655517483 source:z:\ifsp\3 semestre\estrutura de dados\trabfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+	"trabFinal.h"
+	"arvoreAVL.h"
+	"arvoreLLRB.h"
+
+1655516918 z:\ifsp\3 semestre\estrutura de dados\trabfinal\trabfinal.h
+
+1655516785 source:z:\ifsp\3 semestre\estrutura de dados\trabfinal\trabfinal.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"trabFinal.h"
+
+1655515680 source:c:\users\elias\documents\github\projeto2ed2\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+	"arvoreAVL.h"
+
+1655511643 c:\users\elias\documents\github\projeto2ed2\arvoreavl.h
+
+1655515681 source:c:\users\elias\documents\github\projeto2ed2\arvorellrb.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+	"arvoreLLRB.h"
+
+1655511709 c:\users\elias\documents\github\projeto2ed2\arvorellrb.h
+
